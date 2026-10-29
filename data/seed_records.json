@@ -1,0 +1,9 @@
+[
+  {"accession": 410, "species": "Quinua negra", "region": "Altiplano", "status": "En observación", "viability": 82, "notes": "Variedad resistente al frío."},
+  {"accession": 230, "species": "Maíz capio", "region": "Andes", "status": "Prioritaria", "viability": 91, "notes": "Semilla tradicional de altura."},
+  {"accession": 610, "species": "Fríjol cacha", "region": "Andes", "status": "Estable", "viability": 96, "notes": "Buena adaptación a suelos volcánicos."},
+  {"accession": 150, "species": "Papa criolla silvestre", "region": "Páramo", "status": "Prioritaria", "viability": 73, "notes": "Requiere nueva prueba de germinación."},
+  {"accession": 320, "species": "Amaranto rojo", "region": "Altiplano", "status": "Estable", "viability": 88, "notes": "Registro recuperado de una huerta comunitaria."},
+  {"accession": 520, "species": "Chachafruto", "region": "Bosque andino", "status": "En observación", "viability": 67, "notes": "Especie útil para sistemas agroforestales."},
+  {"accession": 720, "species": "Lulo de monte", "region": "Bosque andino", "status": "Prioritaria", "viability": 79, "notes": "Muestra recolectada en zona de transición."}
+]
